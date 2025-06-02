@@ -1,7 +1,7 @@
 # 🎤 Ghostword AI
 
 <p align="center">
-  <img src="URL_TO_YOUR_GHOSTWORD_GRAPHIC.png" alt="Ghostword Banner" width="600"/>
+  <img src="[URL_TO_YOUR_GHOSTWORD_GRAPHIC.png](https://github.com/Damilola-Ayeni/ghostword-ai/blob/main/ghostword_banner.png.png)" alt="Ghostword Banner" width="600"/>
 </p>
 
 <p align="center">
